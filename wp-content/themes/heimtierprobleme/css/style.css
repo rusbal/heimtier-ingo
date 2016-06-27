@@ -117,12 +117,12 @@ h2 {
 
 a:link, a:hover, a:active {
 	text-decoration: none;
-	color: #8b0000;
+	color: #d10000;
 }
 
 a:visited {
 	text-decoration: none;
-	color: #d10000;
+	color: #8b0000;
 }
 
 img {
@@ -252,7 +252,7 @@ strong {
 }
 
 #headerNav a {
-	color: #8b0000;
+	color: #d10000;
 	text-decoration: none;
 	display: block;
 	padding-right: 15px;
@@ -260,7 +260,8 @@ strong {
 }
 
 #headerNav a:hover, #headerNav a:active, #headerNav a.aktiv {
-	color: #c1042f;
+	/*color: #c1042f;*/
+	color: d10000;
 }
 
 a#navDrucken {
@@ -337,7 +338,8 @@ a#navSitemap:hover, a#navSitemap:active, a#navSitemap.aktiv {
 }
 
 #mainNav a:hover, #mainNav a:active, #mainNav a.aktiv {
-	color: #c1042f !important;
+	/*color: #c1042f !important;*/
+	color: #1d0000 !important;
 }
 
 #mainNav ul ul {
@@ -379,7 +381,8 @@ a#navSitemap:hover, a#navSitemap:active, a#navSitemap.aktiv {
 }
 
 #subNav a:hover, #subNav a:active, #subNav a.aktiv {
-	color: #c1042f !important;
+	/*color: #c1042f !important;*/
+	color: #d10000 !important;
 }
 
 #subNav.subAnchor a.aktiv {
@@ -387,7 +390,8 @@ a#navSitemap:hover, a#navSitemap:active, a#navSitemap.aktiv {
 }
 
 #subNav.subAnchor a:hover, #subNav.subAnchor a:active {
-	color: #c1042f !important;
+	/*color: #c1042f !important;*/
+	color: #d10000 !important;
 }
 
 
@@ -2494,5 +2498,5 @@ div.wpcf7-spam-blocked, div.wpcf7-validation-errors {
 }
 
 .content h1 {
-	color:  #8b0000;
+	color:  #d10000;
 }
